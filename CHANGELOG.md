@@ -1,5 +1,9 @@
 # Changelog
 
+## v5.9.0 (2026-11-19)
+
+VTAB Reporting Studio 5.9.0
+
 ## v6.0.0 (2026-11-19)
 
 VTAB Reporting Studio 6.0.0
