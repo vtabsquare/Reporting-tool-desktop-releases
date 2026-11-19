@@ -1,8 +1,8 @@
 # Changelog
 
-## v6.0.0 (2026-11-12)
+## v6.0.0 (2026-11-19)
 
-Stable Version
+VTAB Reporting Studio 6.0.0
 
 ## v5.1.2 (2026-10-28)
 
