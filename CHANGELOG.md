@@ -3,7 +3,6 @@
 ## v6.0.0 (2026-11-19)
 
 VTAB Reporting Studio 6.0.0
-
 ## v5.1.2 (2026-10-28)
 
 THIS IS A TEST
